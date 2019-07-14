@@ -1,0 +1,5 @@
+#Python
+print("hello world!!")
+print("how are you ??")
+name = input()
+print("Hi"+name)
